@@ -1,5 +1,6 @@
-## Cybersecurity Tools and Commands Report
-
+# Cybersecurity Tools and Commands Report
+## NOTE: saare ke saare tools ko git clone mat karo, already bohot saare tools Kali me present hote h, aur nahi bhi rahe ya link redirect nahi kar rahi to tool ka naam khud search kar ke original repository clone kar do, aur merko personally notify kar do ki ye tool ki repo galat aai hai
+har ek tool ke saare commands bhi maine add nahi kiye h, to ek ek tool ke multiple commands, chatgpt, geeksforgeeks ya google kar ke tryout karo.
 ---
 
 ### 1. Information Gathering
